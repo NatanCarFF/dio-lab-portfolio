@@ -4,8 +4,8 @@
 :root, :root[data-theme='dark'] {
   --primary-color: #F0F0F0;
 
-  --primary-bg-color: #40754d;
-  --secondary-bg-color: #28292E;
+  --primary-bg-color: #155325;
+  --secondary-bg-color: #317041;
   --primary-border-color: #28292E;
 	--secondary-border-color: #56575A;
 
@@ -18,8 +18,8 @@
 :root[data-theme='light'] {
   --primary-color: #0B0B0F;
 
-	--primary-bg-color: #2cfca9;
-	--secondary-bg-color: #C7C8C9;
+	--primary-bg-color: #bae7ba;
+	--secondary-bg-color: #c5e7c7;
 	--primary-border-color: #C7C8C9;
 	--secondary-border-color: #9A9A9C;
 
