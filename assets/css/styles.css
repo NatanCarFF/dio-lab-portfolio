@@ -4,7 +4,7 @@
 :root, :root[data-theme='dark'] {
   --primary-color: #F0F0F0;
 
-  --primary-bg-color: #111217;
+  --primary-bg-color: #40754d;
   --secondary-bg-color: #28292E;
   --primary-border-color: #28292E;
 	--secondary-border-color: #56575A;
@@ -18,7 +18,7 @@
 :root[data-theme='light'] {
   --primary-color: #0B0B0F;
 
-	--primary-bg-color: #41725e;
+	--primary-bg-color: #2cfca9;
 	--secondary-bg-color: #C7C8C9;
 	--primary-border-color: #C7C8C9;
 	--secondary-border-color: #9A9A9C;
